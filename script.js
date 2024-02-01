@@ -216,3 +216,8 @@ btn.addEventListener("click", (evt) => {
     evt.preventDefault();
     updateExchangeMessage();
 })
+
+window.addEventListener("load",(evt) => {
+    evt.preventDefault;
+    updateExchangeMessage();
+})
