@@ -220,4 +220,4 @@ btn.addEventListener("click", (evt) => {
 window.addEventListener("load",(evt) => {
     evt.preventDefault;
     updateExchangeMessage();
-})
+});
